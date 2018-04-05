@@ -1,5 +1,7 @@
 int coins[] = {500,250,100,50,10};
+// 아하~ 배열을 지정하고 counting하기
 int count[5];
+// 배열 coins랑 count 이렇게 두개 만들었네
 int money;
 int i = 0;
 
